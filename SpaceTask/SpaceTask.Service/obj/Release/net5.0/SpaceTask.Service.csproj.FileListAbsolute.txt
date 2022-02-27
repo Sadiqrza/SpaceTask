@@ -1,0 +1,15 @@
+D:\Examples\Space\SpaceTask\SpaceTask\BLL\obj\Release\net5.0\SpaceTask.Service.csproj.AssemblyReference.cache
+D:\Examples\Space\SpaceTask\SpaceTask\BLL\obj\Release\net5.0\SpaceTask.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\Space\SpaceTask\SpaceTask\BLL\obj\Release\net5.0\SpaceTask.Service.AssemblyInfoInputs.cache
+D:\Examples\Space\SpaceTask\SpaceTask\BLL\obj\Release\net5.0\SpaceTask.Service.AssemblyInfo.cs
+D:\Examples\Space\SpaceTask\SpaceTask\BLL\obj\Release\net5.0\SpaceTask.Service.csproj.CoreCompileInputs.cache
+D:\Examples\Space\SpaceTask\SpaceTask\BLL\bin\Release\net5.0\SpaceTask.Service.deps.json
+D:\Examples\Space\SpaceTask\SpaceTask\BLL\bin\Release\net5.0\SpaceTask.Service.dll
+D:\Examples\Space\SpaceTask\SpaceTask\BLL\bin\Release\net5.0\ref\SpaceTask.Service.dll
+D:\Examples\Space\SpaceTask\SpaceTask\BLL\bin\Release\net5.0\SpaceTask.Service.pdb
+D:\Examples\Space\SpaceTask\SpaceTask\BLL\bin\Release\net5.0\SpaceTask.Data.dll
+D:\Examples\Space\SpaceTask\SpaceTask\BLL\bin\Release\net5.0\SpaceTask.Data.pdb
+D:\Examples\Space\SpaceTask\SpaceTask\BLL\obj\Release\net5.0\SpaceTask.Service.csproj.CopyComplete
+D:\Examples\Space\SpaceTask\SpaceTask\BLL\obj\Release\net5.0\SpaceTask.Service.dll
+D:\Examples\Space\SpaceTask\SpaceTask\BLL\obj\Release\net5.0\ref\SpaceTask.Service.dll
+D:\Examples\Space\SpaceTask\SpaceTask\BLL\obj\Release\net5.0\SpaceTask.Service.pdb

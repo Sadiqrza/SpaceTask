@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e0a7fd6-c4fc-4f34-b09e-3c87ae23ea25": {
+      "ProjectGuid": "2e0a7fd6-c4fc-4f34-b09e-3c87ae23ea25",
+      "DisplayName": "SpaceTask.Services",
+      "ColorIndex": 0
+    },
+    "4bf15e67-f9e0-4c9a-80aa-bc4c71513acd": {
+      "ProjectGuid": "4bf15e67-f9e0-4c9a-80aa-bc4c71513acd",
+      "DisplayName": "SpaceTask.Data",
+      "ColorIndex": 1
+    },
+    "c6f07631-2012-4a2b-afb6-30e74dd17050": {
+      "ProjectGuid": "c6f07631-2012-4a2b-afb6-30e74dd17050",
+      "DisplayName": "SpaceTask.Api",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e19a81a0-5230-4d60-9bbc-862083e81be6": {
+      "ProjectGuid": "e19a81a0-5230-4d60-9bbc-862083e81be6",
+      "DisplayName": "SpaceTask.Api",
+      "ColorIndex": 3
+    },
+    "d1619aa7-66d5-4ca9-8bf8-fca39023d1fd": {
+      "ProjectGuid": "d1619aa7-66d5-4ca9-8bf8-fca39023d1fd",
+      "DisplayName": "SpaceTask.Service",
+      "ColorIndex": 4
+    },
+    "e9869e54-ddf0-4988-95c3-d8a7c2417a43": {
+      "ProjectGuid": "e9869e54-ddf0-4988-95c3-d8a7c2417a43",
+      "DisplayName": "SpaceTask.Data",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
